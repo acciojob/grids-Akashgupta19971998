@@ -9,21 +9,18 @@ background-color: rgb(245, 166, 192);
 border: 5px solid lightgreen;
 height: 100%;
 }
-.container .col-4{
-    /* border: 3px solid green; */
+/* .container .col-4{
     height: 33%;
     width: 33%;
 }
 .col-6{
-    /* border: 3px solid green; */
     height: 33%;
     width: 33%;
 }
 .col-8{
-    /* border: 3px solid green; */
     height: 33%;
-    width: 66%;
-}
+    width: 66%; */
+
 #one{
     background: lightblue;
 }
